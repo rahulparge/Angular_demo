@@ -1,6 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
-.courser{
-    cursor: pointer;
+.home-container{
+    width: 60%;
+}
+.icon-possiton{
+    position: relative;
+    top: 15;
 }
 .text-color{
     background: linear-gradient(104deg,#4285f4 4%,#db4437 35%);
